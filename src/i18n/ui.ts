@@ -5,7 +5,7 @@ export const ui = {
     // Site Metadata
     'siteMetadata.title': 'Edu Blogpost',
     'siteMetadata.headerTitle': 'Edu Blogpost',   
-    'siteMetadata.description': 'educational research for better education ',
+    'siteMetadata.description': 'educational research for better education',
     'siteMetadata.language': 'en-US',
 
     // Pages
