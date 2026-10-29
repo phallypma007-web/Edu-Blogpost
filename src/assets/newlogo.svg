@@ -1,1 +1,20 @@
-<img src="https://img.magnific.com/free-vector/abstract-gradient-letter-logo-design_474888-7092.jpg?semt=ais_hybrid&amp;w=740&amp;q=80" jsaction="" class="sFlh5c FyHeAf uT7N3d" style="max-width: 740px; --xGflle: 1;" alt="Letter a tech logo design Vectors - Download Free High-Quality Vectors |  Magnific (formerly Freepik)" jsname="kn3ccd">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="bookGradient" x1="20" y1="30" x2="104" y2="105">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="leafGradient" x1="66" y1="18" x2="98" y2="65">
+      <stop offset="0%" stop-color="#A3E635"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="118" height="118" rx="28" fill="#F0FDFA"/>
+  <path d="M23 43.5C35 38 47 39 61 47V99C47 91 35 90 23 96V43.5Z" fill="url(#bookGradient)"/>
+  <path d="M105 43.5C93 38 81 39 67 47V99C81 91 93 90 105 96V43.5Z" fill="url(#bookGradient)" opacity=".82"/>
+  <path d="M64 47V100" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M67 42C67 27 79 17 99 17C99 36 88 48 67 48V42Z" fill="url(#leafGradient)"/>
+  <path d="M72 43L91 25" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M31 56C39 54 46 56 52 60M31 68C39 66 46 68 52 72M76 60C82 56 89 54 97 56M76 72C82 68 89 66 97 68" stroke="#FFFFFF" stroke-opacity=".85" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
