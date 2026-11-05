@@ -1,8 +1,8 @@
 ---
-title: Blocked Sidewalks Put Pedestrians at Risk Along Phnom Penh’s Sisowath Quay.
-summary: Parking on sidewalks has become a common practice among vehicle owners, despite continued complaints from pedestrians along Sisowath Quay. Meanwhile, urbanists say the city’s sidewalks should be better designed to meet the needs of all street users.
+title: Blogpost 1
+summary: Should Teachers Use Carrot Approach?
 postLayout: simple
-date: '2024-02-12'
+date: '2026-11-05'
 cover: '@/assets/og-image.png'
 ---
 
@@ -16,13 +16,11 @@ Additionally, you can use '@' to refer to the `src` directory. For example, `@/a
 
 ```markdown
 ---
-title: Simple layout with cover
+title: Blogpost 1
 postLayout: simple
-date: '2024-02-12'
+date: '2026-11-05'
 cover: '@/assets/og-image.png'
 ---
 ```
 
-The cover image is displayed at the top of the page. The title and date are displayed below the cover image. The rest of the content is displayed below the title and date.
-
-The cover is responsive and using Astro's built-in image optimization. It will be displayed at the top of the page on large screens and at the top of the content on small screens.
+The “carrot” approach should be discouraged in 21st century education. The use of rewards as a form of positive reinforcement has been widely adopted by educators around the world, who believe that it can motivate students, encourage active participation, and enhance learning outcomes. However, actual study suggests that the excessive use of reward may have unintended negative consequences, potentially undermining students’ intrinsic motivation in the subject matters (Anderman, 2023). Students may engage in classroom activities primarily to obtain tangible rewards rather than out of genuine interest, making them more likely to abandon those activities when external incentives are no longer provided. Verbal and external rewards also have different effects on young children and higher education. Moreover, the effect of verbal praise and tangible rewards on intrinsic motivation may vary across age group and educational level. For instance, young children may experience a greater decline in intrinsic motivation in response to certain extrinsic rewards than college students do (Deci et al., 1999). In conclusion, although rewards can undermine learners’ intrinsic motivation under certain circumstances, their potential impact on academic achievement suggests that educators should exercise caution when incorporating reward-based strategies into modern educational practices.
